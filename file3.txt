@@ -1,0 +1,2 @@
+This is the third test file.
+Just another example text file.
